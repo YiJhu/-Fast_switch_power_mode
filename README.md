@@ -11,7 +11,7 @@ This software can change power confing for your PC.
   [3]     Ultimate Performance (only for win10 Pro)
 
 ### Demonstration pictures
-  ![image](https://github.com/YiJhu/Fast_switch_power_mode/)
+  ![image](https://github.com/YiJhu/Fast_switch_power_mode/blob/master/pic.png)
 
 ### Creator
 [@YiJhu](https://github.com/YiJhu)
