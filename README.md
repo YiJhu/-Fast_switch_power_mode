@@ -1,4 +1,4 @@
-# Fast_switch_power_mode
+# Fast switch power mode (Windows)
 
 ### About software
 This software can change power confing for your PC.
